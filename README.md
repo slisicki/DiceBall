@@ -1,5 +1,5 @@
 # DiceBall
-DiceBall Game
+Dice BaseBall Game
 from random import randint
 
 #create dictionary for die rolls
